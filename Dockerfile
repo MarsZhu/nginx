@@ -1,0 +1,1 @@
+From gcr.io/google-containers/nginx:v1
